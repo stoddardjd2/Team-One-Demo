@@ -8,7 +8,7 @@ This repository contains a demo of the official website for the first-ever U.S. 
 - Responsive design
 - Dynamic content loading
 
-## Deployed Application Link:
+## Demo Link:
 [https://scrollos.netlify.app
 ](https://85ersdraftv1.netlify.app/)
 
@@ -24,5 +24,5 @@ https://github.com/stoddardjd2
 
 Or contact me at: jared.stoddard2@gmail.com
 
-## Demo:
+## Demo Images:
 COMING SOON.
