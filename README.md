@@ -9,7 +9,7 @@ This repository contains a demo of the official website for the first-ever U.S. 
 - Dynamic content loading
 
 ## Demo Link:
-[https://scrollos.netlify.app](https://85ersdraftv1.netlify.app/)
+[https://85ersdraftv1.netlify.app/](https://85ersdraftv1.netlify.app/)
 ## Main Technologies:
 - JavaScript
 - HTML
