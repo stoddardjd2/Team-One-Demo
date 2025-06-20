@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Catalog-UI
+# Team-One-Demo
 ## Description: 
 This repository contains a demo of the official website for the first-ever U.S. Women's National Soccer Team.
 - Effective UI/UX design
